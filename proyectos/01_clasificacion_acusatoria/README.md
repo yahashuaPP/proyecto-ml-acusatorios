@@ -1,4 +1,4 @@
-# Clasificación de Contratos: Sistema Acusatorio ⚖️
+# Clasificación de Contratos: Sistema Acusatorio 
 
 Este proyecto implementa un sistema de Procesamiento de Lenguaje Natural (NLP) para la categorización automatizada de documentos legales, estructurado bajo los pilares fundamentales del aprendizaje automático.
 
