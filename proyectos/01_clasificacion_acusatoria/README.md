@@ -31,3 +31,4 @@ La métrica de éxito para validar la capacidad de generalización del modelo.
 
 ## 📊 Archivos
 * `proyecto_ml_kapak_final_corregido.ipynb`: Notebook con el flujo completo de ingeniería de datos, entrenamiento y validación.
+* https://drive.google.com/file/d/1YqDCZVOYT49ZBWDeamwzJP-fwgYo_Vqk/view?usp=sharing
